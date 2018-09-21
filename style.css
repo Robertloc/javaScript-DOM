@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body  {
+    font-family: 'Courier New', Courier, monospace;
+    font-size : 18px;
+}
+
+.container {
+    display:flex;
+    align-items: center;
+    width:40rem;
+    margin:5rem auto;
+}
+
+.padlock {
+    width:20rem;
+    height:auto;
+}
+
+.text {
+    margin-left:1rem;
+    width:20rem;
+    border: 2px solid black;
+}
